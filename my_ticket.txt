@@ -1,0 +1,10 @@
+Booking Details:
+Movie ID: 4
+Seat: (1, 1)
+Time: 2024-12-21T15:41:49.433Z
+
+Booking Details:
+Movie ID: 1
+Seat: (3, 1)
+Time: 2024-12-21T15:45:43.293Z
+
